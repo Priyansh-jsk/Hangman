@@ -1,5 +1,6 @@
 //I've made this project in the first few weeks in the "Structured Programming in C" course so the code isnt so clean XD
 //Enjoy the game by pressing "Run" 
+//This is the insightful game for practising in C
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
@@ -26,7 +27,7 @@ int main() {
 	clrscr();
 	while(a!=0)
 	{
-	    printf("Do you know how to play Hangman?[yes/no]\n");
+	    printf("Do you know how to play Hangman? [yes/no]\n");
 	    scanf("%s",yes_no);
 	    clrscr();
 	    if(strcmp(yes_no,yes)==0) break;
@@ -176,7 +177,7 @@ while(quit!=0){
 	clrscr();
 }
 printf("Thank you for playing Hangman\n");
-printf("This game was made by Amr Darawsheh\n");
+printf("This game was made by Developer\n");
 printf("I hope you had fun %s!!",UserName);
 
     return 0;
