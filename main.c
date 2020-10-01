@@ -1,4 +1,4 @@
-//I and my friend made this project in first few weeks in the "Structured Programming in C" course so the code isnt so clean XD
+//Me and my friend made this project in first few weeks in the "Structured Programming in C" course so the code isnt so clean XD
 //Enjoy the game by pressing "Run" 
 #include <stdio.h>
 #include <time.h>
