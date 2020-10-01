@@ -1,4 +1,4 @@
-//Me and my friend made this project in first few weeks in the "Structured Programming in C" course so the code isnt so clean XD
+//I've made this project in first few weeks in the "Structured Programming in C" course so the code isnt so clean XD
 //Enjoy the game by pressing "Run" 
 #include <stdio.h>
 #include <time.h>
@@ -176,7 +176,7 @@ while(quit!=0){
 	clrscr();
 }
 printf("Thank you for playing Hangman\n");
-printf("This game was made by Amr Darawsheh\n");
+printf("This game was made by Priyansh Neema\n");
 printf("I hope you had fun %s!!",UserName);
 
     return 0;
